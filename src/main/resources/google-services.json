@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599304973842",
+    "project_id": "kars-test",
+    "storage_bucket": "kars-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599304973842:android:a7f5844c096406bde1f2cb",
+        "android_client_info": {
+          "package_name": "com.kars.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599304973842-5jalqfao8t4a7nhtk8c2pkmu4ukmb0t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCooxdQwts7d8I2u2jhNBaMCCJ-lmUxuak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599304973842-5jalqfao8t4a7nhtk8c2pkmu4ukmb0t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
